@@ -4,7 +4,7 @@ Flashcards for Pleco Kangxi Radicals.
 Flashcards are based on https://en.wikipedia.org/wiki/Radical_(Chinese_characters)#Unicode .
 I just went through all 214 wikipedia pages and copy and pasted the character, definition and pinyin.
 
-If a character has an additional character "without additional strokes" I but it inside the definition as "Alt.:".
+If a character has an additional character "without additional strokes" I put it inside the definition as "Alt.:".
 
 Example: Radical 47
 https://en.wikipedia.org/wiki/Radical_47
