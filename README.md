@@ -20,3 +20,5 @@ Some Characters have two or three pinyins. Don't ask me why, I don't understand.
 Also I am not a 100% sure what this alternative appearance really means.
 
 Have fun learning :)
+
+Created with Pleco version 3.2.57
